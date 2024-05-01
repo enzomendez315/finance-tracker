@@ -1,0 +1,6 @@
+#ifndef FINANCE_TRACKER_TRACKER_H
+#define FINANCE_TRACKER_TRACKER_H
+class Tracker {
+
+};
+#endif //FINANCE_TRACKER_TRACKER_H
