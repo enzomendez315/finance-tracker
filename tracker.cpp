@@ -1,5 +1,8 @@
 #include "tracker.h"
 
-int main() {
-    return 0;
+Tracker::Tracker() {}
+
+int Tracker::addMonthlyIncome(int amount) {
+
 }
+
